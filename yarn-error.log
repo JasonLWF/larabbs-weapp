@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn add promise-polyfill
+  /usr/local/bin/node /usr/local/bin/yarn
 
 PATH: 
   /home/vagrant/.composer/vendor/bin:/home/vagrant/bin:/home/vagrant/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
@@ -8,7 +8,7 @@ Yarn version:
   1.7.0
 
 Node version: 
-  10.4.1
+  8.11.3
 
 Platform: 
   linux x64
